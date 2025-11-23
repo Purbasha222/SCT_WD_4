@@ -29,4 +29,4 @@ This project was created as part of my internship assignment to practice React c
 
 🚀 **Live Demo**
 
-**Live URL:**
+**Live URL:** https://sct-wd-4.netlify.app/
